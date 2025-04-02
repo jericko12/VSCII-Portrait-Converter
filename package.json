@@ -7,7 +7,7 @@
     "dev": "vite",
     "start": "vite",
     "win-dev": "npx vite",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview"
   },
   "keywords": [
